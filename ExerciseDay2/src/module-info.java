@@ -1,0 +1,2 @@
+module exerciseDay2 {
+}
